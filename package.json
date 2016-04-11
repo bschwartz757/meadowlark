@@ -2,7 +2,7 @@
   "name": "meadowlark",
   "version": "1.0.0",
   "description": "App created following the examples in Ethan Brown's book",
-  "main": "index.js",
+  "main": "meadowlark.js",
   "dependencies": {
     "cheerio": "^0.20.0",
     "express": "^4.13.4",
